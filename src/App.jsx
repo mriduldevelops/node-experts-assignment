@@ -10,7 +10,7 @@ export default function App() {
   return (
     <div>
       <img
-        src="/src/assets/woman-in-blue-crew-neck-shirt-using-black-laptop-computer-3994051.png"
+        src='./assets/woman-in-blue-crew-neck-shirt-using-black-laptop-computer-3994051.png'
         alt="background-image"
         className="absolute z-0"
       />
